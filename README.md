@@ -1,7 +1,12 @@
-<h1 align="center">¡Hola! Celeste Telenchana 👋</h1>
+<div align="center">
+  <!-- Aquí va tu banner. Cambia el enlace "src" por la imagen que elijas -->
+  <img src="https://images.unsplash.com/photo-1578632767115-351597cf2477?q=80&w=1200&h=300&fit=crop" alt="Banner Anime" width="100%" style="border-radius: 10px;" />
+</div>
+
+<h1 align="center">¡Hola! Soy Celeste Telenchana 👋</h1>
 
 <p align="center">
-  <em>Estudiante apasionado por la programación, el desarrollo web y me gusta aprender cada día nuevas cosas</em><br>
+  <em>Estudiante apasionada por la programación, el desarrollo web y aprender cosas nuevas cada día</em><br>
   📍 Ambato, Ecuador 🇪🇨
 </p>
 
@@ -17,15 +22,16 @@
 
 ---
 
-## 🙋‍♂️ Sobre mí
+## 🙋‍♀️ Sobre mí
 
 - 💻 Estoy aprendiendo desarrollo web paso a paso y creando mis primeros proyectos.
+- ⛩️ **Fan del anime:** Me encanta sumergirme en buenas historias y personajes épicos.
 - 🎮 Me encantan los videojuegos y pasar tiempo con mis amigos.
 - 🎵 No puede faltar la música mientras programo.
 - 🌱 Siempre tratando de aprender algo nuevo cada día.
-- ⛩️ **Fan del anime:** Me encanta sumergirme en buenas historias y personajes épicos.
 
 ## 🛠️ Lo que estoy aprendiendo
+
 *   **HTML & CSS:** 
     `████████████████░░░░` *(Nivel: Construyendo bases)*
 *   **Git & GitHub:** 
@@ -41,18 +47,18 @@
 
 | Proyecto | Descripción |
 | :--- | :--- |
-| [**PROYECTO_MANEJO_SP2**](https://github.com/celestetelenchanaa/PROYECTO_MANEJO_SP2) | Proyecto grupal hecho en HTML 🤝 |
 | [**comandos_basicos_b**](https://github.com/celestetelenchanaa/comandos_basicos_b) | Guía de comandos básicos de Git 📘 |
 
-## ⚽ Fuera del código
+## ⛩️ Fuera del código
 
 <p align="center">
-  Si no estoy programando, probablemente estoy viendo algun anime.<br><br>
-  <b>Mi anime favorito:</b> One Piece 💙 <br>
-  <b>Mi personaje favorito:</b> Zoro 🔥
+  Si no estoy programando, probablemente estoy viendo algún anime.<br><br>
+  <b>Mi anime favorito:</b> One Piece 🏴‍☠️ <br>
+  <b>Mi personaje favorito:</b> Zoro ⚔️
 </p>
 
 ## 📊 Mis estadísticas
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=celestetelenchanaa&show_icons=true&theme=dark&hide_title=true&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celestetelenchanaa&layout=compact&theme=dark&hide_title=true&hide_border=true" height="150" />
@@ -68,7 +74,7 @@
 ---
 
 <p align="center">
-  <b>🎯 Mi meta:</b> Convertirme en desarrollador profesional y crear proyectos que ayuden a las personas.
+  <b>🎯 Mi meta:</b> Convertirme en desarrolladora profesional y crear proyectos que ayuden a las personas.
 </p>
 
-<p align="center"><i>"Meta a meta, línea a línea de código." ⚽💻</i></p>
+<p align="center"><i>"Meta a meta, línea a línea de código. ¡Yo voy a ser el Rey de los Piratas!" ⛩️💻</i></p>
