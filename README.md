@@ -41,7 +41,7 @@
 
 | Proyecto | Descripción |
 | :--- | :--- |
-| [**PROYECTO_GRUPO4**](https://github.com/damixxs/PROYECTO_MANEJO_SP2) | Proyecto grupal hecho en HTML 🤝 |
+| [**PROYECTO_MANEJO_SP2**](https://github.com/celestetelenchanaa/PROYECTO_MANEJO_SP2) | Proyecto grupal hecho en HTML 🤝 |
 | [**comandos_basicos_b**](https://github.com/celestetelenchanaa/comandos_basicos_b) | Guía de comandos básicos de Git 📘 |
 
 ## ⚽ Fuera del código
