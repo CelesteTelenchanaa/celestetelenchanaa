@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Aquí va tu banner. Cambia el enlace "src" por la imagen que elijas -->
-  <img src="./assets/banner.png" alt="Banner Anime" width="100%" style="border-radius: 10px;" />
+ <img src="./banner.png" alt="Banner Anime" width="100%" style="border-radius: 10px;" />
 </div>
 
 <h1 align="center">¡Hola! Soy Celeste Telenchana 👋</h1>
